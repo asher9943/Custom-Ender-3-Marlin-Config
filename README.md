@@ -1,3 +1,5 @@
+Note: this is my marlin configuration for a reasonably modified ender 3 pro machine. I'm uploading it here since it's good to have a cloud backup and if I choose to try different options branching might be useful. The licensing is all the same as for regular marlin, since I didn't make any actual code changes beyond changing the expected config files. Feel free to try this if you want to for some reason, but please recognize that you will likely need to make significant modifications for it to work properly on your machine and are likely better off downloading marlin from the official repo and configuring it yourself. The rest of this readme is the same as for regular marlin. 
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
