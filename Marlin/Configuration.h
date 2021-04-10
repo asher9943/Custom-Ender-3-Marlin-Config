@@ -572,7 +572,7 @@
  * Note: For Bowden Extruders make this large enough to allow load/unload.
  */
 #define PREVENT_LENGTHY_EXTRUDE
-#define EXTRUDE_MAXLENGTH 200
+#define EXTRUDE_MAXLENGTH 350
 
 //===========================================================================
 //======================== Thermal Runaway Protection =======================
@@ -1122,7 +1122,7 @@
 // @section machine
 
 // The size of the print bed
-#define X_BED_SIZE 235
+#define X_BED_SIZE 230
 #define Y_BED_SIZE 205
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
